@@ -2,8 +2,8 @@
 package ceilingfan;
 
 /**
- *
- * @author moham
+ * 08-08-2022
+ * @author Mohamed Elsheimy
  */
 public class Fan {
     private int speed = 0;
