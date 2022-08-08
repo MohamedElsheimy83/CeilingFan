@@ -6,7 +6,7 @@ package ceilingfan;
 import java.util.Scanner;
 
 /**
- *
+ * 08-08-2022
  * @author Mohamed Elsheimy
  */
 public class CeilingFan {
